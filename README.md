@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Betelhem Yimam</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c7-2know&label=Profile%20views&color=0e75b6&style=flat" alt="c7-2know" /> </p>
-
 - 💬 Ask me about **Python, React, .Net, Golang**
 
 - 📫 reach me **betelhemyimamd@gmail.com**
