@@ -14,9 +14,9 @@
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/YOUR_ANIMATED_GIF_URL/giphy.gif" width="400" height="300" alt="Coding Gif"> -->
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=c7-2know&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+</p> -->
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="center" gap="100"> 
